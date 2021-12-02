@@ -1,6 +1,7 @@
 .highlight-effect {
     position: relative;
     max-width: max-content;
+    color: black;
 }
 
 .highlight-effect::before {
