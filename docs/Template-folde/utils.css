@@ -1,7 +1,9 @@
+
 .highlight-effect {
     position: relative;
     max-width: max-content;
     color: black;
+    font:itc-avant-garde-gothic-pro;
 }
 
 .highlight-effect::before {
